@@ -1,0 +1,59 @@
+{
+   "checksum": "f85ed09c14db67cd0284d367f104199d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13337805049608289",
+            "date_last_used": "0",
+            "guid": "0df4513c-e839-4342-9a31-89e8f692dc09",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AP CS Principles",
+            "type": "url",
+            "url": "https://sites.google.com/a/mrjaffesclass.com/ap-computer-science-principles/"
+         }, {
+            "date_added": "13337805143417489",
+            "date_last_used": "0",
+            "guid": "ca430751-836a-4e80-8fe1-e987469e091b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13337804930625947",
+         "date_last_used": "0",
+         "date_modified": "13337805143417489",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13337804930625951",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337804930625954",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvECCtACCIiBAhLJAhJSCAISTgoGCgJibRABEDMaEgmAon1gEwQGACGAon1gEwQGACIUCZu7NHATBAYAEAMZviu5dhHpUhAyGAoWCAIRM1VHcBMEBgAYACEAAAAAAAAAACAAkgHqAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJe2dHcBMEBgARe2dHcBMEBgAiNAmauzRwEwQGABADGcJfz9bRZf6aIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmauzRwEwQGABADGcJfz9bRZf6aIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpcHpIcBMEBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmANzhrEwQGABGANzhrEwQGACllZEdwEwQGADCA7+DZtoKBA7oBAggBEgAqGDNBRFRwYXhvMHRjVmkvQnlSd3JraVE9PUgDEusBCAYS5gEKHGpXYTRxczNpS1JaN1BYb0JoUHpEOEtRT3p6Zz0SZlo6QURxdEFaelhjS0ZvNG5FUjZiazZxZXNnbHdvZkI1OG1mbjNWREROY3ZWQkl3UGkvYmQ1NjE2NjlCNjZ1K0VCcjNqV3o1VnBNR3hMVktCZWxtdHB4VStWMnJYYVlldUxzQWc9PRgAIAIoAjCN9NPJt4KBAzj6qrOTpDFA/aqzk6QxShx6L1ZWVHBGd1pBbkpVdTF4ZUEvTXNhWS83TVk9Wh4iHGt2dlpQeXcyYmhGc1RKaC9lZmZYWXhxSXZyVT1lXUePgxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnl5YVFkTjJ1V1FWRUJyak1UaXR5T0wvOExHTjBMYkR3M0tqZVQyOFlPaDB6OXRPUmdBUUtubXRwKzJ2cFlsWkRxY0dycTROR2lrRUhEK3F6RCtrK08vZ1lENS9BPT0YACAAKAAwmvfSgbeCgQM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnpweVlkNmZnVnhuWXdEbUdEK1BjcDl5a2tseEZReUpxenFlUENYQmdhQzZwOXdGWkxnaWhzZkM5L2ZmN2M3UEluYy9vVittR01LNkpwaEpTQ2xGcmhsK3lTeGtnPT0YACAAKAAwmvfSgbeCgQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLrAQgFEuYBChwyaDVBNUw4aXVoQXFCVEVFa3FYMTJob3B2K2c9EmZaOkFEcXRBWnpYY0tGbzRuRVI2Yms2cWVzZ2x3b2Z1MXJzWHFMM2JMUVkwZnYrL1pFVHBUS3k1Q1Q3MVkxSFVRQWYrZ2ViSy8vNlg4cUlERldZeC9VYlpyYzUxcjBsV2JMaEFRPT0YACACKAIwopX2nLeCgQM4iM6tk6QxQIrOrZOkMUocZzBMNTRGVUlYbDZGSkJmcFVuYmc3WWN5VUxRPVoeIhxVYU81UmdpaTZxVTVacUhMRjdtSzM4b1N6SUk9ZQncC+0SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4WTNSU0s0cXFadG9lSzk0SGJmbXkzc2ZjcS9Bd05jQkVaQkdDV0pCZFNQT3NnOEVCQXJ2Q1JqbnlaV3VSTkVSb0kyMENWGAAgACgAMJr30oG3goEDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}
